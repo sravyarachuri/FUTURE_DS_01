@@ -175,7 +175,7 @@ FUTURE_DS_01
 │   └── Ecommerce_Sales_Dashboard.pbix
 │
 ├── Dataset
-│   └── README.md (Dataset information & access link)
+│   └── DATASET_INFO.md (Dataset information & access link)
 │
 ├── Images
 │   └── dashboard_image.png
